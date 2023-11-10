@@ -1,0 +1,12 @@
+.video_wrapper img{
+
+    width: 80%;
+    height: 610px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    background-color: #fff;
+    border: none;
+    border-radius: 8px;
+    
+}
